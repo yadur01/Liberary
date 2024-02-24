@@ -1,0 +1,16 @@
+style>
+.fix-footer {
+  position: fixed;
+  left: 0;
+  border-bottom: 0;
+  width: 100%;
+  background-color: gray;
+  text-align: center;
+  padding: 10px;
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
